@@ -1,0 +1,21 @@
+
+
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: auto;
+}
+ 
+
+
+.button {background-color:blueviolet;} 
+
+
+*{
+    margin: 3;
+    padding: 0;
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
